@@ -1,0 +1,150 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File href="../index.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(9);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../index.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+<table border=0 cellpadding=0 cellspacing=0 width=408 style='border-collapse:
+ collapse;table-layout:fixed;width:306pt'>
+ <col width=68 span=6 style='width:51pt'>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=2 width=136 style='height:13.9pt;mso-ignore:colspan;
+  width:102pt'>categorize</td>
+  <td width=68 style='width:51pt'>vt.</td>
+  <td width=68 style='width:51pt'>把…归类</td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>monitor</td>
+  <td></td>
+  <td>vt.</td>
+  <td>监控</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>cortex</td>
+  <td></td>
+  <td>n.</td>
+  <td>皮层</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>sensation</td>
+  <td></td>
+  <td>n.</td>
+  <td colspan=2 style='mso-ignore:colspan'>感觉；感受</td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=3 style='height:13.9pt;mso-ignore:colspan'>be loaded to
+  capacity</td>
+  <td colspan=2 style='mso-ignore:colspan'>加载到容量</td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=3 style='height:13.9pt;mso-ignore:colspan'>take sth
+  into account<span style='mso-spacerun:yes'>&nbsp;</span></td>
+  <td>考虑某事</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>perceive</td>
+  <td></td>
+  <td>vt.</td>
+  <td colspan=2 style='mso-ignore:colspan'>察觉；感知</td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>gist</td>
+  <td></td>
+  <td>n.</td>
+  <td colspan=2 style='mso-ignore:colspan'>要点；主旨</td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=2 style='height:13.9pt;mso-ignore:colspan'>inadequate</td>
+  <td>adj.</td>
+  <td>不充足的</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=2 style='height:13.9pt;mso-ignore:colspan'>fall short
+  of reality</td>
+  <td></td>
+  <td colspan=2 style='mso-ignore:colspan'>达不到现实</td>
+  <td></td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>faculty</td>
+  <td></td>
+  <td>n.</td>
+  <td colspan=3 style='mso-ignore:colspan'>能力；才能；全体教职员工</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

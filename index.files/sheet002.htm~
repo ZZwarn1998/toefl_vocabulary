@@ -1,0 +1,138 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File href="../index.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../index.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+<table border=0 cellpadding=0 cellspacing=0 width=404 style='border-collapse:
+ collapse;table-layout:fixed;width:303pt'>
+ <col width=68 span=3 style='width:51pt'>
+ <col width=132 style='mso-width-source:userset;mso-width-alt:4505;width:99pt'>
+ <col width=68 style='width:51pt'>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 width=68 style='height:13.9pt;width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=132 style='width:99pt'></td>
+  <td width=68 style='width:51pt'>因果</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'></td>
+  <td>并列</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'></td>
+  <td>对比</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'></td>
+  <td>转折</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'></td>
+  <td>举例</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'></td>
+  <td>让步</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'></td>
+  <td>*重述</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=2 style='height:13.9pt;mso-ignore:colspan'>…, which is
+  why ...</td>
+  <td></td>
+  <td>…，这就是为什么...</td>
+  <td>因果</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>I mean</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td>意思就是说</td>
+  <td>*重述</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 style='height:13.9pt'>but …</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td>但是</td>
+  <td>转折</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=4 style='height:13.9pt;mso-ignore:colspan'>What you are
+  saying is, I mean, …</td>
+  <td>*重述</td>
+ </tr>
+ <tr height=19 style='height:13.9pt'>
+  <td height=19 colspan=2 style='height:13.9pt;mso-ignore:colspan'>That way …</td>
+  <td></td>
+  <td>那种方法</td>
+  <td>因果</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=132 style='width:99pt'></td>
+  <td width=68 style='width:51pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
